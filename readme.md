@@ -1,7 +1,7 @@
 # API de Inventario
 
 Esta API permite gestionar un inventario, ofreciendo endpoints para consultar productos, agregar nuevos productos y actualizar el stock de productos existentes. 
-
+Esta API fue creada como prueba del segundo bimestre la asignatura de Construcción y evolución de software por parte de JOHAN BAÑO
 ## Requisitos
 
 
