@@ -12,8 +12,8 @@ Esta API permite gestionar un inventario, ofreciendo endpoints para consultar pr
 
 1. Clona este repositorio o descarga el código fuente:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd api_inventario
+   git clone https://github.com/JohanSteeven/Prueba-IIB
+   
    ```
 
 
